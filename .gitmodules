@@ -1,3 +1,6 @@
 [submodule "lpng166"]
 	path = lpng166
 	url = git://git.code.sf.net/p/libpng/code
+[submodule "zlib-1.2.5"]
+	path = zlib-1.2.5
+	url = https://github.com/madler/zlib.git
